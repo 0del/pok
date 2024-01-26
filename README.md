@@ -3,12 +3,12 @@ Pokemon gen names.
 
 ## Install
 ```
-cargo install https://github.com/9bany/pok.git
+cargo install pok9
 ```
 
 ## Usage
 ```bash
-pok
+pok9
 # some pokemon name in the stdout.
 ```
 

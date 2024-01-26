@@ -1,6 +1,6 @@
 [package]
 name = "pok9"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["9bany <ybuoceban4569@gmail.com>"]
 description = "A Cli tool for generate Pokemon names"
