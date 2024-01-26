@@ -3,6 +3,9 @@ name = "pok"
 version = "0.1.0"
 edition = "2021"
 authors = ["9bany <ybuoceban4569@gmail.com>"]
+description = "A Cli tool for generate Pokemon names"
+license = "MIT"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
